@@ -1,0 +1,23 @@
+------- Please note this application is set to use python 3.11  -------
+
+See the credentials and groups below :
+
+Username: admin
+Email: admin@littlelemon.com
+Password: lemon@789!
+Token: 7d754264034256d384524fa01673199530717f15
+
+Username: Adrian (Manager)
+Email: adrian@littlelemon.com
+Password: lemon@adr!
+Token: e00e90be3b29396597508374bc9968077765cd3e
+
+Username: Mario (Delivery crew)
+Email: mario@littlelemon.com
+Password: lemon@mar!
+Token: 94892135d8710fb9ba233336b95d60457cc09b45
+
+Username: Sana (No group ->> Customer)
+Email: sana@littlelemon.com
+Password: lemon@san!
+Token: 32622a80166a7831ba7d894347448a7175a969d6
